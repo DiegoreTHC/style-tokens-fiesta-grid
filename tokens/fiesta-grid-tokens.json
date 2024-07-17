@@ -2,45 +2,45 @@
   "gpi-core": {
     "spacing": {
       "xs": {
-        "value": "4",
+        "value": "4px",
         "type": "spacing"
       },
       "s": {
-        "value": "6",
+        "value": "6px",
         "type": "spacing"
       },
       "m": {
-        "value": "8",
+        "value": "8px",
         "type": "spacing"
       },
       "l": {
-        "value": "16",
+        "value": "16px",
         "type": "spacing"
       },
       "xl": {
-        "value": "22",
+        "value": "22px",
         "type": "spacing"
       }
     },
     "radius": {
       "xs": {
-        "value": "4",
+        "value": "4px",
         "type": "borderRadius"
       },
       "s": {
-        "value": "6",
+        "value": "6px",
         "type": "borderRadius"
       },
       "m": {
-        "value": "8",
+        "value": "8px",
         "type": "borderRadius"
       },
       "l": {
-        "value": "16",
+        "value": "16px",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "22",
+        "value": "22px",
         "type": "borderRadius"
       }
     },
@@ -167,39 +167,39 @@
     },
     "fontSize": {
       "H1": {
-        "value": "32",
+        "value": "32px",
         "type": "fontSizes"
       },
       "H2": {
-        "value": "28",
+        "value": "28px",
         "type": "fontSizes"
       },
       "H3": {
-        "value": "26",
+        "value": "26px",
         "type": "fontSizes"
       },
       "H4": {
-        "value": "20",
+        "value": "20px",
         "type": "fontSizes"
       },
       "H5": {
-        "value": "18",
+        "value": "18px",
         "type": "fontSizes"
       },
       "H6": {
-        "value": "16",
+        "value": "16px",
         "type": "fontSizes"
       },
       "text": {
-        "value": "14",
+        "value": "14px",
         "type": "fontSizes"
       },
       "caption": {
-        "value": "13",
+        "value": "13px",
         "type": "fontSizes"
       },
       "small": {
-        "value": "10",
+        "value": "10px",
         "type": "fontSizes"
       }
     },
